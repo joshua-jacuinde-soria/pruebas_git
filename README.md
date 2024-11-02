@@ -14,4 +14,5 @@ Comandos utilizados para subir los archivos a GitHub:
 - git status
 - git remote
 - git push
+
 El archivo .gitignore se creó para poder ignorar archivos que no son necesarios en el proyecto o carpeta de GitHub (en este caso, un archivo llamado debug.log). Este archivo se activa automáticamente al guardarlo en nuestros archivos de Git (al hacerle commit al .gitignore). Podemos verificar que se están ignorando los archivos deseados con un git status, en el cual, al ejecutar, no se observará el archivo ignorado dentro de la lista de archivos pendientes de agregar.
