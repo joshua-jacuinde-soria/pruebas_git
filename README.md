@@ -6,7 +6,7 @@ Para poder ejecutar el programa, dependerá del entorno que se utilice. En este 
 
 ```bash
 python HolaMundo.py
-
+```
 Comandos utilizados para subir los archivos a GitHub:
 - git init
 - git add
